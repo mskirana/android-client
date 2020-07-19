@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kirana</string>
+    <string name="defaulttitle">Kirana</string>
+
+    <string name="join">Join</string>
+    <string name="signin">Sign In</string>
+    <string name="createaccount">Create Account</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    
+    <string name="createyouraccount">Let\'s create your account</string>
+    <string name="fullname">Full Name</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="letyousignin">LogIn with Email</string>
+
+    <string name="skip">Skip</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="addproduct">Add Product</string>
+    <string name="editproduct">Edit Product</string>
+
+    <string name="ok">OK</string>
+    <string name="businesslogin">Business Login</string>
+
+</resources>

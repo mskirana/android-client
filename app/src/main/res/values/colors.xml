@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#3F51B5</color>
+    <color name="PrimaryDark">#303F9F</color>
+    <color name="Accent">#FF4081</color>
+
+    <color name="Topbar">#525967</color>
+    <color name="White">#ffffff</color>
+    <color name="Transparent">#00000000</color>
+
+    <color name="WallMenuBg">#444444</color>
+    <color name="WallMenuShadow">#333333</color>
+
+    <color name="Grey">#646464</color>
+    <color name="JoinButton">#92BDE3</color>
+    <color name="CreateButton">#BBBBBB</color>
+    <color name="ButtonColor">#9378FF</color>
+    <color name="Business">#E4DFFB</color>
+
+    <color name="Navyblue">#165b95</color>
+    <color name="Pista">#f0ffd6</color>
+
+    <color name="Lavender3">#8250a0</color>
+
+    <color name="Darkgreen2">#6a843d</color>
+
+    <color name="Ash">#5f5f5f</color>
+
+    <color name="LightAsh">#F8F8F8</color>
+
+    <color name="Black">#000000</color>
+
+    <color name="Red">#cc3300</color>
+    <color name="Green">#008000</color>
+    <color name="Yellow">#ffff00</color>
+
+    <array name="array_dot_active">
+        <item>@color/PrimaryDark</item>
+        <item>@color/PrimaryDark</item>
+
+    </array>
+
+
+    <array name="array_dot_inactive">
+        <item>@color/Accent</item>
+        <item>@color/Accent</item>
+
+
+    </array>
+
+</resources>
